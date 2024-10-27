@@ -13,7 +13,6 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Chandan Das
  */
 public class QueryDatabase {
     
