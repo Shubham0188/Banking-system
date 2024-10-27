@@ -11,7 +11,6 @@ import javafx.collections.FXCollections;
 
 /**
  *
- * @author Chandan Das
  */
 public class DeleteDatabase {
       
